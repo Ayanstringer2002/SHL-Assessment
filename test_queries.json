@@ -1,0 +1,11 @@
+[
+    {
+      "query": "Looking to hire a Java developer",
+      "relevant": ["Verify Java Programming Test"]
+    },
+    {
+      "query": "Hiring mid-level Python and SQL dev",
+      "relevant": ["Verify Python Programming Test", "Verify SQL Test"]
+    }
+  ]
+  
